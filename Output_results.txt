@@ -1,0 +1,127 @@
+Model tbabs*agauss.txt:  Reduced chi-squared =        1.88998 for    564 degrees of freedom 
+Model tbabs*apec.txt:  Reduced chi-squared =        7.27971 for    565 degrees of freedom 
+Model tbabs*bapec.txt:  Reduced chi-squared =        7.48073 for    565 degrees of freedom 
+Model tbabs*bbodyrad.txt:  Reduced chi-squared =        2.14614 for    565 degrees of freedom 
+Model tbabs*bbody.txt:  Reduced chi-squared =        2.14615 for    565 degrees of freedom 
+Model tbabs*bexrav.txt: 
+Model tbabs*bexriv.txt: 
+Model tbabs*bkn2pow.txt:  Reduced chi-squared =         1.4143 for    561 degrees of freedom 
+Model tbabs*bknpower.txt:  Reduced chi-squared =         1.4093 for    563 degrees of freedom 
+Model tbabs*bmc.txt:  Reduced chi-squared =         1.5058 for    563 degrees of freedom 
+Model tbabs*bremss.txt:  Reduced chi-squared =         1.4394 for    565 degrees of freedom 
+Model tbabs*btapec.txt:  Reduced chi-squared =         1.4244 for    564 degrees of freedom 
+Model tbabs*bvapec.txt:  Reduced chi-squared =        3.45118 for    565 degrees of freedom 
+Model tbabs*bvtapec.txt:  Reduced chi-squared =         1.4396 for    564 degrees of freedom 
+Model tbabs*bvvapec.txt:  Reduced chi-squared =        3.45118 for    565 degrees of freedom 
+Model tbabs*bvvtapec.txt:  Reduced chi-squared =         1.4396 for    564 degrees of freedom 
+Model tbabs*c6mekl.txt:  Reduced chi-squared =        2.01032 for    560 degrees of freedom 
+Model tbabs*c6pmekl.txt:  Reduced chi-squared =        2.49146 for    560 degrees of freedom 
+Model tbabs*c6pvmkl.txt:  Reduced chi-squared =        2.49146 for    560 degrees of freedom 
+Model tbabs*c6vmekl.txt:  Reduced chi-squared =        2.01032 for    560 degrees of freedom 
+Model tbabs*carbatm.txt:  Reduced chi-squared =         1.6238 for    563 degrees of freedom 
+Model tbabs*cemekl.txt:  Reduced chi-squared =        2.85081 for    565 degrees of freedom 
+Model tbabs*cevmkl.txt:  Reduced chi-squared =        2.52762 for    565 degrees of freedom 
+Model tbabs*cflow.txt:  Reduced chi-squared =         1.4482 for    562 degrees of freedom 
+Model tbabs*compbb.txt:  Reduced chi-squared =        2.16365 for    564 degrees of freedom 
+Model tbabs*compLS.txt:  Reduced chi-squared =         1.4394 for    564 degrees of freedom 
+Model tbabs*compmag.txt:  Reduced chi-squared =         1.5138 for    560 degrees of freedom 
+Model tbabs*compPS.txt:  Reduced chi-squared =         1.5098 for    564 degrees of freedom 
+Model tbabs*compST.txt:  Reduced chi-squared =         1.4302 for    564 degrees of freedom 
+Model tbabs*comptb.txt:  Reduced chi-squared =         1.3913 for    561 degrees of freedom 
+Model tbabs*compth.txt:  Reduced chi-squared =        2.87755 for    564 degrees of freedom 
+Model tbabs*compTT.txt:  Reduced chi-squared =         1.5901 for    563 degrees of freedom 
+Model tbabs*cplinear.txt:  Reduced chi-squared =       35.15351 for    566 degrees of freedom 
+Model tbabs*cutoffpl.txt: 
+Model tbabs*diskbb.txt:  Reduced chi-squared =         1.6291 for    565 degrees of freedom 
+Model tbabs*diskir.txt:  Reduced chi-squared =         1.5125 for    559 degrees of freedom 
+Model tbabs*diskline.txt:  Reduced chi-squared =       54.01306 for    564 degrees of freedom 
+Model tbabs*diskm.txt:  Reduced chi-squared =         1.4686 for    565 degrees of freedom 
+Model tbabs*disko.txt:  Reduced chi-squared =         1.4591 for    565 degrees of freedom 
+Model tbabs*diskpbb.txt:  Reduced chi-squared =         1.4479 for    564 degrees of freedom 
+Model tbabs*diskpn.txt:  Current data and model not fit yet.
+Model tbabs*disk.txt:  Reduced chi-squared =         1.6238 for    565 degrees of freedom 
+Model tbabs*eplogpar.txt:  Reduced chi-squared =         1.4505 for    564 degrees of freedom 
+Model tbabs*eqpair.txt:  Reduced chi-squared =         1.4437 for    562 degrees of freedom 
+Model tbabs*eqtherm.txt:  Reduced chi-squared =        3.68790 for    562 degrees of freedom 
+Model tbabs*equil.txt:  Reduced chi-squared =        3.44548 for    565 degrees of freedom 
+Model tbabs*expdec.txt:  Reduced chi-squared =         1.6106 for    565 degrees of freedom 
+Model tbabs*ezdiskbb.txt:  Reduced chi-squared =         1.6219 for    565 degrees of freedom 
+Model tbabs*gadem.txt:  Reduced chi-squared =        3.19570 for    565 degrees of freedom 
+Model tbabs*gaussian.txt:  Reduced chi-squared =        2.58602 for    564 degrees of freedom 
+Model tbabs*gnei.txt:  Reduced chi-squared =        7.23611 for    563 degrees of freedom 
+Model tbabs*grad.txt:  Reduced chi-squared =         1.6170 for    564 degrees of freedom 
+Model tbabs*grbm.txt:  Reduced chi-squared =         1.6528 for    563 degrees of freedom 
+Model tbabs*hatm.txt:  Reduced chi-squared =        1.82450 for    563 degrees of freedom 
+Model tbabs*kerrbb.txt:  Reduced chi-squared =         1.5775 for    563 degrees of freedom 
+Model tbabs*kerrdisk.txt:  Reduced chi-squared =       49.36436 for    565 degrees of freedom 
+Model tbabs*kerrd.txt:  Reduced chi-squared =         1.5672 for    564 degrees of freedom 
+Model tbabs*laor2.txt:  Reduced chi-squared =        13.5967 for    565 degrees of freedom 
+Model tbabs*laor.txt:  Reduced chi-squared =        13.5967 for    565 degrees of freedom 
+Model tbabs*logpar.txt:  Reduced chi-squared =         1.4510 for    564 degrees of freedom 
+Model tbabs*lorentz.txt:  Reduced chi-squared =         1.6556 for    564 degrees of freedom 
+Model tbabs*mekal.txt:  Reduced chi-squared =        2.74055 for    565 degrees of freedom 
+Model tbabs*meka.txt:  Reduced chi-squared =        2.37251 for    565 degrees of freedom 
+Model tbabs*mkcflow.txt: ***Warning: Zero alpha-matrix diagonal element for parameter 4
+Model tbabs*nei.txt:  Reduced chi-squared =        7.98992 for    564 degrees of freedom 
+Model tbabs*nlapec.txt:  Reduced chi-squared =         1.4311 for    565 degrees of freedom 
+Model tbabs*npshock.txt:  Reduced chi-squared =        5.22744 for    563 degrees of freedom 
+Model tbabs*nsagrav.txt:  Reduced chi-squared =        2.14455 for    563 degrees of freedom 
+Model tbabs*nsatmos.txt:  Reduced chi-squared =         1.7497 for    562 degrees of freedom 
+Model tbabs*nsa.txt:  Reduced chi-squared =         1.7375 for    563 degrees of freedom 
+Model tbabs*nsmaxg.txt:  Reduced chi-squared =        2.12648 for    562 degrees of freedom 
+Model tbabs*nsmax.txt:  Reduced chi-squared =         1.5053 for    564 degrees of freedom 
+Model tbabs*nsx.txt:  Reduced chi-squared =         1.6221 for    562 degrees of freedom 
+Model tbabs*nteea.txt:  Reduced chi-squared =         1.5259 for    562 degrees of freedom 
+Model tbabs*nthComp.txt:  Reduced chi-squared =         1.5391 for    564 degrees of freedom 
+Model tbabs*optxagnf.txt: Chi-Squared  |beta|/N    Lvl          1:nH   4:logLoLEdd        6:rcor        8:kT_e         9:tau      10:Gamma        11:fpl       13:norm
+Model tbabs*optxagn.txt: ========================================================================
+Model tbabs*pegpwrlw.txt:  Reduced chi-squared =         1.5960 for    565 degrees of freedom 
+Model tbabs*pexmon.txt: 
+Model tbabs*pexrav.txt: 
+Model tbabs*pexriv.txt: 
+Model tbabs*plcabs.txt:  Reduced chi-squared =         1.5841 for    564 degrees of freedom 
+Model tbabs*posm.txt:  Reduced chi-squared =       47.60439 for    566 degrees of freedom 
+Model tbabs*powerlaw.txt:  Reduced chi-squared =         1.5925 for    565 degrees of freedom 
+Model tbabs*pshock.txt:  Reduced chi-squared =        3.33173 for    564 degrees of freedom 
+Model tbabs*raymond.txt:  Reduced chi-squared =        2.91875 for    565 degrees of freedom 
+Model tbabs*redge.txt:  Reduced chi-squared =         1.5812 for    564 degrees of freedom 
+Model tbabs*refsch.txt:  Reduced chi-squared =         1.4437 for    562 degrees of freedom 
+Model tbabs*rnei.txt:  Reduced chi-squared =        4.62278 for    563 degrees of freedom 
+Model tbabs*sedov.txt:  Reduced chi-squared =         1.4470 for    563 degrees of freedom 
+Model tbabs*sirf.txt:  Reduced chi-squared =         1.4279 for    562 degrees of freedom 
+Model tbabs*slimbh.txt:  Reduced chi-squared =         1.6395 for    564 degrees of freedom 
+Model tbabs*smaug.txt: 
+Model tbabs*snapec.txt:  Reduced chi-squared =         1.4420 for    563 degrees of freedom 
+Model tbabs*srcut.txt: 
+Model tbabs*sresc.txt: 875.586      184.142      -4      0.867607      0.486809   1.55320e+17       19.4350
+Model tbabs*step.txt:  Reduced chi-squared =        2.18357 for    564 degrees of freedom 
+Model tbabs*tapec.txt:  Reduced chi-squared =         1.4244 for    564 degrees of freedom 
+Model tbabs*vapec.txt:  Reduced chi-squared =        3.45120 for    565 degrees of freedom 
+Model tbabs*vbremss.txt:  Reduced chi-squared =         1.4424 for    564 degrees of freedom 
+Model tbabs*vequil.txt:  Reduced chi-squared =        3.44548 for    565 degrees of freedom 
+Model tbabs*vgadem.txt:  Reduced chi-squared =        3.19570 for    565 degrees of freedom 
+Model tbabs*vgnei.txt:  Reduced chi-squared =        7.23611 for    563 degrees of freedom 
+Model tbabs*vmcflow.txt: Test statistic : Chi-Squared =       30523.00 using 569 PHA bins.
+Model tbabs*vmekal.txt:  Reduced chi-squared =        2.74055 for    565 degrees of freedom 
+Model tbabs*vmeka.txt:  Reduced chi-squared =        2.37251 for    565 degrees of freedom 
+Model tbabs*vnei.txt:  Reduced chi-squared =        7.98992 for    564 degrees of freedom 
+Model tbabs*vnpshock.txt:  Reduced chi-squared =        5.22744 for    563 degrees of freedom 
+Model tbabs*voigt.txt:  Reduced chi-squared =         1.6543 for    563 degrees of freedom 
+Model tbabs*vpshock.txt:  Reduced chi-squared =        3.33173 for    564 degrees of freedom 
+Model tbabs*vraymond.txt:  Reduced chi-squared =        2.69082 for    565 degrees of freedom 
+Model tbabs*vrnei.txt:  Reduced chi-squared =        4.62278 for    563 degrees of freedom 
+Model tbabs*vsedov.txt:  Reduced chi-squared =         1.4470 for    563 degrees of freedom 
+Model tbabs*vtapec.txt:  Reduced chi-squared =         1.4396 for    564 degrees of freedom 
+Model tbabs*vvapec.txt:  Reduced chi-squared =        3.45120 for    565 degrees of freedom 
+Model tbabs*vvgnei.txt:  Reduced chi-squared =        7.23611 for    563 degrees of freedom 
+Model tbabs*vvnei.txt:  Reduced chi-squared =        7.98992 for    564 degrees of freedom 
+Model tbabs*vvnpshock.txt:  Reduced chi-squared =        5.22744 for    563 degrees of freedom 
+Model tbabs*vvpshock.txt:  Reduced chi-squared =        3.33173 for    564 degrees of freedom 
+Model tbabs*vvrnei.txt:  Reduced chi-squared =        4.62278 for    563 degrees of freedom 
+Model tbabs*vvsedov.txt:  Reduced chi-squared =         1.4470 for    563 degrees of freedom 
+Model tbabs*vvtapec.txt:  Reduced chi-squared =         1.4396 for    564 degrees of freedom 
+Model tbabs*zagauss.txt:  Reduced chi-squared =        1.88998 for    564 degrees of freedom 
+Model tbabs*zbbody.txt:  Reduced chi-squared =        2.14615 for    565 degrees of freedom 
+Model tbabs*zbremss.txt:  Reduced chi-squared =         1.4394 for    565 degrees of freedom 
+Model tbabs*zgauss.txt:  Reduced chi-squared =        2.58602 for    564 degrees of freedom 
+Model tbabs*zpowerlw.txt:  Reduced chi-squared =         1.5925 for    565 degrees of freedom 
